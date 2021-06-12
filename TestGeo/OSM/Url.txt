@@ -1,0 +1,1 @@
+﻿https://nominatim.openstreetmap.org/search?q=
